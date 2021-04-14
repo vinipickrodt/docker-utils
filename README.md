@@ -12,6 +12,6 @@ Some docker commands, scripts, tips etc.
 TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
 Images          29        13        9.444GB   3.499GB (37%)
 Containers      16        2         31GB      221.8MB (0%)
-Local Volumes   9         9         2.598GB   0B (0%)
+Local Volumes   11        9         27.55GB   24.95GB (90%)
 Build Cache     153       0         1.565GB   1.565GB
 ```
