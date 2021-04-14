@@ -3,7 +3,7 @@ Some docker commands, scripts, tips etc.
 # Docker Commands
 ## Pruning (save disk space + cleaning)
 
-``` docker volume prune ```
+> docker volume prune
 * Removes all volumes not used by at least one container. (add --force to not ask for confirmation)
 
 > docker system df
