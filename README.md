@@ -19,6 +19,6 @@ Build Cache     153       0         1.565GB   1.565GB
 3. > wsl --shutdown
 * Stop WSL to release the VHDX file.
 
-4. > Optimize-VHD -Path "%localappdata%\Local\Docker\wsl\data\ext4.vhdx" -Mode Full
+4. > Optimize-VHD -Path "%localappdata%\Docker\wsl\data\ext4.vhdx" -Mode Full
 * Releases the unused space from VHDX filesystem.
 
